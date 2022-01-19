@@ -1,6 +1,6 @@
 # Dice Roll
 
-This is a simple Dice rolling simulator made with Unity. Choose your dice and your the mouse to throw them around. 
+This is a simple Dice rolling simulator made with Unity. Choose your dice and use your mouse to throw them around. 
 Dice-scores will be added to a total sum.
 
 ### Dice:
